@@ -73,9 +73,8 @@ The heatmap reveals a strong relationship between customer tenure and churn beha
 * Churn_Heatmap.png
 * Task-5 Summary.png
 
-### Video Demonstration
-
-* Task5_Demo.mp4
+### Video Demonstration Link:
+https://gitam0-my.sharepoint.com/:f:/g/personal/d8c29025-39f9-4f0b-bed6-024789722cdc_gitam0_onmicrosoft_com/IgDfXRbJVZepTab_H4cX7GzpAfIgAopbR_NDASZee2VDaTA?e=3tGX4l
 
 ---
 
